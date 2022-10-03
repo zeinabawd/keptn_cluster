@@ -1,0 +1,2 @@
+deploymentURIsLocal:
+  - "http://helloservice.keptn-demo-project-qa:80" 
